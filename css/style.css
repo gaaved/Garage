@@ -1,0 +1,80 @@
+/*
+ 	Andrew Styles1
+*/
+/* Variables*/
+/* mixins */
+/* Styles */
+.list {
+  color: black; }
+
+.panel-title .btn-project-group {
+  display: none; }
+  .panel-title .btn-project-group .btn {
+    background: none; }
+    .panel-title .btn-project-group .btn .glyphicon {
+      color: #dddddd; }
+      .panel-title .btn-project-group .btn .glyphicon:hover {
+        color: #dddddd; }
+.panel-title .project-name {
+  color: white; }
+  .panel-title .project-name:hover {
+    text-decoration: none; }
+.panel-title:hover {
+  cursor: pointer; }
+  .panel-title:hover .btn-project-group {
+    display: inline-block; }
+
+.project-tasks {
+  padding: 0; }
+  .project-tasks .task-plus .glyphicon {
+    font-size: 28px; }
+
+nav.navbar {
+  margin-bottom: 0; }
+  nav.navbar .collapse.navbar-collapse {
+    padding-left: 0;
+    padding-right: 0; }
+    nav.navbar .collapse.navbar-collapse form {
+      padding-right: 0;
+      padding-left: 0; }
+
+.panel-group .panel {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0; }
+  .panel-group .panel .panel-heading {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0; }
+
+.list-group-tasks li {
+  border-bottom: 1px solid #eeeeee; }
+  .list-group-tasks li .checked-flag {
+    border-right: 1px solid red; }
+    .list-group-tasks li .checked-flag .checkbox {
+      width: 10px; }
+  .list-group-tasks li .task-name {
+    border-left: 1px solid red;
+    border-right: 1px solid #eeeeee; }
+  .list-group-tasks li .task-controls .checkbox {
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0; }
+    .list-group-tasks li .task-controls .checkbox .btn-group-tasks {
+      display: none; }
+      .list-group-tasks li .task-controls .checkbox .btn-group-tasks .btn-group-vertical {
+        margin-left: 0; }
+        .list-group-tasks li .task-controls .checkbox .btn-group-tasks .btn-group-vertical .btn {
+          padding: 0;
+          border: 0; }
+      .list-group-tasks li .task-controls .checkbox .btn-group-tasks .btns-task-control {
+        margin-top: 10px; }
+      .list-group-tasks li .task-controls .checkbox .btn-group-tasks .btn {
+        background: none; }
+        .list-group-tasks li .task-controls .checkbox .btn-group-tasks .btn .glyphicon {
+          color: #cccccc; }
+          .list-group-tasks li .task-controls .checkbox .btn-group-tasks .btn .glyphicon:hover {
+            color: #bbbbbb; }
+  .list-group-tasks li:hover {
+    cursor: pointer;
+    background-color: #FCF8C0; }
+    .list-group-tasks li:hover .task-controls .checkbox .btn-group-tasks {
+      display: inline-block; }

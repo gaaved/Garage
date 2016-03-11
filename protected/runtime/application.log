@@ -1,0 +1,1475 @@
+2014/02/18 18:30:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "css".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('css')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('css')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/css/style....')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/css/style.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:30:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/lib/jquery...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/lib/jquery/jquery-1.11.0.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:30:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/lib/bootst...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/lib/bootstrap/js/bootstrap.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:30:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/lib/bootst...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/lib/bootstrap/css/bootstrap.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:30:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/lib/bootst...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/lib/bootstrap/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:30:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/lib/requir...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/lib/require/require.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/lib/bootst...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/lib/bootstrap/css/bootstrap.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/lib/bootst...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/lib/bootstrap/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/lib/bootst...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/lib/bootstrap/js/bootstrap.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "css".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('css')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('css')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/css/style....')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/css/style.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/lib/requir...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/lib/require/require.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:31:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('site/lib/jquery...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/site/lib/jquery/jquery-1.11.0.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/site/login
+---
+2014/02/18 18:31:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/lib/boo...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/lib/bootstrap/css/bootstrap.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/create
+---
+2014/02/18 18:31:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/lib/boo...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/lib/bootstrap/js/bootstrap.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/create
+---
+2014/02/18 18:31:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/lib/jqu...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/lib/jquery/jquery-1.11.0.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/create
+---
+2014/02/18 18:31:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "css".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('css')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('css')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/css/sty...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/css/style.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/create
+---
+2014/02/18 18:31:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/lib/req...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/lib/require/require.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/create
+---
+2014/02/18 18:31:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/lib/boo...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/lib/bootstrap/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/create
+---
+2014/02/18 18:32:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/lib/boo...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/lib/bootstrap/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/Create
+---
+2014/02/18 18:32:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/lib/jqu...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/lib/jquery/jquery-1.11.0.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/Create
+---
+2014/02/18 18:32:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "css".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('css')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('css')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/css/sty...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/css/style.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/Create
+---
+2014/02/18 18:32:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/lib/boo...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/lib/bootstrap/css/bootstrap.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/Create
+---
+2014/02/18 18:32:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/lib/req...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/lib/require/require.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/Create
+---
+2014/02/18 18:32:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "lib".' in C:\xampp\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(270): CController->missingAction('lib')
+#1 C:\xampp\framework\web\CWebApplication.php(282): CController->run('lib')
+#2 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/lib/boo...')
+#3 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/index.php/project/lib/bootstrap/js/bootstrap.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/project/Create
+---
+2014/02/18 18:36:59 [error] [php] Undefined variable: model (C:\xampp\htdocs\yii\protected\views\project\json.php:2)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): ProjectController->renderFile()
+#1 C:\xampp\htdocs\yii\protected\controllers\ProjectController.php(69): ProjectController->renderPartial()
+#2 C:\xampp\framework\web\actions\CInlineAction.php(49): ProjectController->actionCreate()
+#3 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#4 C:\xampp\framework\web\filters\CFilterChain.php(133): ProjectController->runAction()
+#5 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): ProjectController->filterAccessControl()
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#9 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(265): ProjectController->runActionWithFilters()
+#11 C:\xampp\framework\web\CWebApplication.php(282): ProjectController->run()
+#12 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#13 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\yii\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/index.php/project/create
+in C:\xampp\htdocs\yii\protected\views\project\json.php (2)
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 18:43:02 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 18:43:27 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 20:26:22 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in C:\xampp\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 C:\xampp\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 C:\xampp\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#2 C:\xampp\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/delete')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/project/delete/6
+HTTP_REFERER=http://localhost:8080/yii/index.php
+---
+2014/02/18 20:31:01 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (88)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:37:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lib/require/require.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('lib/require/req...')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/lib/require/require.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:37:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lib/bootstrap/css/bootstrap.min.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('lib/bootstrap/c...')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/lib/bootstrap/css/bootstrap.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:37:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lib/jquery/jquery-1.11.0.min.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('lib/jquery/jque...')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/lib/jquery/jquery-1.11.0.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:37:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/css/style.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:37:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lib/bootstrap/js/bootstrap.min.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('lib/bootstrap/j...')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/lib/bootstrap/js/bootstrap.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:37:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lib/bootstrap/css/bootstrap-theme.min.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('lib/bootstrap/c...')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/lib/bootstrap/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:38:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lib/bootstrap/css/bootstrap.min.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('lib/bootstrap/c...')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/lib/bootstrap/css/bootstrap.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:38:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lib/jquery/jquery-1.11.0.min.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('lib/jquery/jque...')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/lib/jquery/jquery-1.11.0.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:38:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lib/bootstrap/css/bootstrap-theme.min.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('lib/bootstrap/c...')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/lib/bootstrap/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:38:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lib/require/require.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('lib/require/req...')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/lib/require/require.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:38:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "lib/bootstrap/js/bootstrap.min.js".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('lib/bootstrap/j...')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/lib/bootstrap/js/bootstrap.min.js
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:38:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in C:\xampp\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/index.php/css/style.css
+HTTP_REFERER=http://localhost:8080/yii/index.php/
+---
+2014/02/18 21:49:49 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (72)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:49:49 [error] [exception.CException] exception 'CException' with message 'TaskController cannot find the requested view "view".' in C:\xampp\framework\web\CController.php:878
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(782): CController->renderPartial('view', Array, true)
+#1 C:\xampp\htdocs\yii\protected\controllers\TaskController.php(56): CController->render('view', Array)
+#2 [internal function]: TaskController->actionView('2')
+#3 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#4 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#5 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#8 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#12 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 C:\xampp\framework\web\CWebApplication.php(282): CController->run('view')
+#14 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/view')
+#15 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#16 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/yii/index.php/task/2
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/18 21:52:15 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:52:42 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:53:37 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:53:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii\protected\controllers\TaskController.php:147
+Stack trace:
+#0 C:\xampp\htdocs\yii\protected\controllers\TaskController.php(86): TaskController->loadModel('0')
+#1 [internal function]: TaskController->actionUpdate('0')
+#2 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#3 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\framework\web\CWebApplication.php(282): CController->run('update')
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/update')
+#14 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yii/index.php/task/update/0
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/18 21:53:55 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:54:59 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (89)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:55:08 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:55:16 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:55:19 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:55:21 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:55:22 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:55:25 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#3 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#12 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/delete/nul...')
+#13 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/yii/index.php/task/delete/null
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/18 21:55:38 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#3 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#12 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/delete/nul...')
+#13 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/yii/index.php/task/delete/null
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/18 21:56:06 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:56:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii\protected\controllers\TaskController.php:147
+Stack trace:
+#0 C:\xampp\htdocs\yii\protected\controllers\TaskController.php(107): TaskController->loadModel('0')
+#1 [internal function]: TaskController->actionDelete('0')
+#2 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#3 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#14 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#16 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/delete')
+#17 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/yii/index.php/task/delete/0
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/18 21:56:25 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:56:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii\protected\controllers\TaskController.php:147
+Stack trace:
+#0 C:\xampp\htdocs\yii\protected\controllers\TaskController.php(107): TaskController->loadModel('0')
+#1 [internal function]: TaskController->actionDelete('0')
+#2 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#3 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#14 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#16 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/delete')
+#17 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/yii/index.php/task/delete/0
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/18 21:57:44 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:57:46 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:57:47 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 21:59:57 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:01:13 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:01:25 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:01:50 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:05:17 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:06:28 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:09:37 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:10:19 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:10:57 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:11:22 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:13:08 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#3 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#12 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('project/delete/...')
+#13 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/yii/index.php/project/delete/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/18 22:13:13 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/18 22:13:22 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:10:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii\protected\controllers\TaskController.php:147
+Stack trace:
+#0 C:\xampp\htdocs\yii\protected\controllers\TaskController.php(107): TaskController->loadModel('4')
+#1 [internal function]: TaskController->actionDelete('4')
+#2 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#3 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#14 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#16 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/delete')
+#17 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/yii/index.php/task/delete/4
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/19 19:10:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii\protected\controllers\TaskController.php:147
+Stack trace:
+#0 C:\xampp\htdocs\yii\protected\controllers\TaskController.php(107): TaskController->loadModel('4')
+#1 [internal function]: TaskController->actionDelete('4')
+#2 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#3 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#14 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#16 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/delete')
+#17 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/yii/index.php/task/delete/4
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/19 19:12:14 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:16 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:18 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:20 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:21 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:22 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:23 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:24 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:25 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:26 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:27 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:28 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:29 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:29 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:30 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:31 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:33 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:33 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:34 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:35 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/19 19:12:35 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/02/23 14:11:13 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/23 14:15:03 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/23 14:17:17 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/23 14:17:17 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/23 14:18:37 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/23 14:18:43 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/23 14:18:43 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/25 18:55:04 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/25 18:55:04 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/25 18:55:04 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/25 19:19:13 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/25 19:19:13 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/25 19:19:13 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/25 19:20:09 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/25 19:20:09 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/25 19:20:09 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/02/25 19:34:44 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#9 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/index/unde...')
+#10 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/index.php/task/index/undefined
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/03/02 13:49:08 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 13:49:13 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 13:49:15 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 13:49:40 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 13:54:34 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:05:28 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:08:42 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (89)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:09:24 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (89)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:12:40 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:12:47 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:12:51 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#3 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#4 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#12 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/delete/nul...')
+#13 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/yii/index.php/task/delete/null
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/03/02 14:15:09 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (68)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:15:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii\protected\controllers\TaskController.php:147
+Stack trace:
+#0 C:\xampp\htdocs\yii\protected\controllers\TaskController.php(107): TaskController->loadModel('0')
+#1 [internal function]: TaskController->actionDelete('0')
+#2 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#3 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#14 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#16 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/delete')
+#17 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/yii/index.php/task/delete/0
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/03/02 14:16:52 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:16:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii\protected\controllers\TaskController.php:149
+Stack trace:
+#0 C:\xampp\htdocs\yii\protected\controllers\TaskController.php(109): TaskController->loadModel('0')
+#1 [internal function]: TaskController->actionDelete('0')
+#2 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#3 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#14 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#16 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/delete')
+#17 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/yii/index.php/task/delete/0
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/03/02 14:17:49 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:17:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii\protected\controllers\TaskController.php:149
+Stack trace:
+#0 C:\xampp\htdocs\yii\protected\controllers\TaskController.php(109): TaskController->loadModel('0')
+#1 [internal function]: TaskController->actionDelete('0')
+#2 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#3 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\CController.php(1116): CFilterChain->run()
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#14 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\xampp\framework\web\CWebApplication.php(282): CController->run('delete')
+#16 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/delete')
+#17 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/yii/index.php/task/delete/0
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/03/02 14:18:08 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:18:15 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:18:48 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:20:53 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:21:26 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:21:30 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:21:32 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:21:34 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:21:38 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:32:25 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:34:25 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:34:53 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:35:51 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:36:12 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:36:13 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:36:38 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:36:40 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:36:41 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:37:21 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:37:23 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:37:24 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:37:26 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:37:27 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:37:27 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:37:28 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:37:28 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:38:59 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:39:02 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:39:27 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:39:30 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:39:32 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:40:53 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:40:55 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:40:57 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:41:05 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:41:06 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:41:08 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:41:09 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:41:10 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:41:11 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:41:25 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 14:41:31 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:05:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii\protected\controllers\TaskController.php:149
+Stack trace:
+#0 C:\xampp\htdocs\yii\protected\controllers\TaskController.php(88): TaskController->loadModel('1')
+#1 [internal function]: TaskController->actionUpdate('1')
+#2 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#3 C:\xampp\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#4 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\framework\web\CWebApplication.php(282): CController->run('update')
+#13 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('task/update')
+#14 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\yii\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yii/index.php/task/update/1
+HTTP_REFERER=http://localhost:8080/yii/
+---
+2014/03/02 15:18:31 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:18:40 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:34:01 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:34:06 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:34:08 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:34:11 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:40:32 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:40:35 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:41:44 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:41:47 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:42:12 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (69)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:45:12 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:45:13 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:50:58 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (62)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/02 15:51:02 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (89)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 20:53:56 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 20:53:56 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 20:54:01 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:06:08 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:06:10 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:18:03 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (89)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:18:51 [warning] [application] Failed to set unsafe attribute "Id" of "Project".
+in C:\xampp\htdocs\yii\protected\controllers\ProjectController.php (89)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:20:17 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:20:20 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:20:22 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:21 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:23 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:25 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:27 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:29 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:30 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:31 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:34 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:35 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:36 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:39 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)
+2014/03/03 21:22:51 [warning] [application] Failed to set unsafe attribute "Id" of "Task".
+in C:\xampp\htdocs\yii\protected\controllers\TaskController.php (91)
+in C:\xampp\htdocs\yii\index.php (13)

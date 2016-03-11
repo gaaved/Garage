@@ -1,0 +1,142 @@
+/*
+ 	Andrew Styles1
+*/
+/* Variables*/
+$list-color: #000;
+$project-name-color: #fff;
+$project-control-color: #fff;
+$project-control-color: #ddd;
+$none : none;
+$border-task-controls-color:#eee;
+$border-task-checked-color:#f00;
+$task-controls-color:#ccc;
+$task-controls-color-hover:#bbb;
+
+$cursor: pointer;
+/* mixins */
+@mixin border-radius($value){
+	border-top-left-radius:$value;
+	border-top-right-radius:$value;
+}
+/* Styles */
+.list{
+	color: $list-color;
+}
+.panel-title{
+	.btn-project-group {
+		display: $none;
+		.btn{
+			background:$none;
+			.glyphicon{
+				color:$project-control-color;
+				&:hover{
+					color:$project-control-color;
+				}
+			}
+		}
+
+	}
+	.project-name{
+		color: $project-name-color;
+		&:hover{
+			text-decoration: $none;
+		}
+	}
+	&:hover{
+		cursor: $cursor;
+		.btn-project-group{
+			display: inline-block;
+		}
+
+	}
+}
+.project-tasks{
+	padding:0;
+	.task-plus{
+		.glyphicon{
+			font-size: 28px;
+		}
+	}
+}
+
+
+
+nav.navbar{
+	margin-bottom:0;
+
+	.collapse.navbar-collapse{
+		padding-left:0;
+		padding-right:0;
+		form{
+			padding-right:0;
+			padding-left:0;
+		}
+	}
+}
+.panel-group{
+	.panel{
+		@include border-radius(0);
+		.panel-heading{
+			@include border-radius(0);
+		}
+	}	
+}
+.list-group-tasks{
+	li{
+		border-bottom:1px solid  $border-task-controls-color;
+		.checked-flag{
+			border-right:1px solid $border-task-checked-color;
+			.checkbox{
+				width:10px;
+			}
+		}
+		.task-name{
+			border-left:1px solid $border-task-checked-color;	
+			border-right:1px solid $border-task-controls-color;
+		}
+
+		.task-controls{
+			.checkbox{
+				padding-left:0;
+				margin-top: 0;
+				margin-bottom:0;
+				.btn-group-tasks{
+					display: none;
+					.btn-group-vertical{
+						margin-left: 0;
+						.btn{
+							padding:0;
+							border:0;
+						}
+					}
+					.btns-task-control{
+						margin-top: 10px;
+					}
+					.btn{
+						background:$none;
+						.glyphicon{
+							color:$task-controls-color;
+							&:hover{
+								color:$task-controls-color-hover;
+							}
+						}
+					}
+				}
+			}
+
+		}
+		&:hover{
+			cursor: $cursor;
+			background-color:#FCF8C0;
+			.task-controls{
+				.checkbox{
+					.btn-group-tasks{
+						display: inline-block;
+					}
+				}
+			}
+		}
+
+	}
+
+}
